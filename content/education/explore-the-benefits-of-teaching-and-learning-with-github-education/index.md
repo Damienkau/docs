@@ -11,6 +11,4 @@ versions:
 children:
   - /use-github-at-your-educational-institution
   - /use-github-for-your-schoolwork
-  - /use-github-in-your-classroom-and-research
----
-
+  - /use-github-in-y
